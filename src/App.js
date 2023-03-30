@@ -11,6 +11,7 @@ import Error from './pages/Error';
 function App() {
   return (
     <>
+    <h1>Example App</h1>
       <nav>
         <ul>
           <li>
